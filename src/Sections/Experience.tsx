@@ -4,7 +4,7 @@ export default function Experience() {
   const experiences = [
     {
       period: "March 2025 — March 2026",
-      role: "Html / Css Developer (Independent Contractor)",
+      role: "UI Developer (Independent Contractor)",
       company: "Antly Logistics",
       description:
         "Developed responsive layouts using advanced CSS techniques, including clamp() for fluid typography and spacing, Delivered 30+ websites with pixel-perfect HTML aligned with branding and design guidelines.",
