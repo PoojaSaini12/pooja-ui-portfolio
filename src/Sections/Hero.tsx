@@ -120,7 +120,7 @@ export default function Hero() {
               </a>
               <a
                 target="_blank"
-                href={`${import.meta.env.BASE_URL}Pooja-Saini-Frontend-Developer.pdf`}
+                href={`${import.meta.env.BASE_URL}Pooja-Saini-UI-UX-Developer.pdf`}
                 className="relative bg-transparent border border-border 
         text-foreground hover:border-primary/50 transition-all 
         duration-1000 focus:outline-none focus-visible:ring-2 
