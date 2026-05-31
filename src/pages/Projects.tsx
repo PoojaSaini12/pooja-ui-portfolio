@@ -20,7 +20,6 @@ export default function ProjectsPage() {
                        <Antly/>
                        <Mindrops/>
                        <Aquevix/>
-                       <ElkEducation/>
                     </div>
                 </main>
                 <Footer/>

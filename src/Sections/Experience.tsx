@@ -3,12 +3,12 @@ import React from "react";
 export default function Experience() {
   const experiences = [
     {
-      period: "March 2025 — March 2026",
-      role: "UI Developer (Contract)",
-      company: "Antly Logistics",
+      period: "March 2025 — Present",
+      role: "UI / UX Developer (Freelance)",
+      company: "Self Employed",
       description:
-        "Developed responsive layouts using advanced CSS techniques, including clamp() for fluid typography and spacing, Delivered 30+ websites with pixel-perfect HTML aligned with branding and design guidelines.",
-      technologies: ["Html5", "Css3", "Photoshop", "JQuery", ".net CMS", "Responsive Design"],
+        "Collaborating with Antly Logistics as a Freelance UI/UX Developer, delivering responsive web solutions and improving user experiences. Simultaneously pursuing continuous learning in React.js, modern JavaScript, and advanced frontend technologies to expand my expertise and build scalable web applications.",
+      technologies: ["Html5", "Css3", "React Js", "Typescript","Node Js", "Next JS", "Tailwind CSS", "Photoshop", "JQuery","Figma", ".net CMS", "Responsive Design"],
       workmode: "Remote",
       current: true,
     },
@@ -18,51 +18,20 @@ export default function Experience() {
       company: "Mindrops Solutions (worked for client site > eRevmax Technologies) ",
       description:
         "Worked in the hospitality and travel industry as a Booking Engine, Automation, Designer, and Developer within the Marketing and IT departments, Created many websites using WordPress and its Elementor Plugin.",
-      technologies: ["Wordpress", "Elementor", "Html5", "Css3", "Adobe XD", "Firma", "Responsive Design"],
+      technologies: ["Html5", "Css3", "Bootstrap", "React Js", "Tailwind CSS", "Wordpress", "Elementor", "Adobe XD", "Figma", "Responsive Design"],
       workmode: "Remote",
       current: false,
     },
     {
-      period: "Sep 2018 — Sep 2021",
+      period: "Sep 2019 — Sep 2021",
       role: "Web Developer",
       company: "Aquevix Solutions",
       description:
         "Developed warehouse management system (kuberwms) using React.js and Bootstrap, Adopted modern frontend technologies including Tailwind CSS, React.js, Git, and Adobe XD to improve development efficiency.",
-      technologies: ["Html5", "Css3", "React", "Tailwind CSS", "JavaScript", "JQuery", "Adobe XD", "Responsive Design"],
+      technologies: ["Html5", "Css3", "React Js", "Bootstrap", "Tailwind CSS", "JavaScript", "JQuery", "Adobe XD", "Responsive Design"],
       workmode: "Remote",
       current: false,
-    },
-    {
-      period: "April 2018 — Sep 2018",
-      role: "HTML Developer / Web Designer",
-      company: "Idigitie Pvt. Ltd",
-      description: "Built responsive websites using HTML, CSS, and JavaScript - Collaborated with designers to implement UI components.",
-      technologies: ["Html5", "Css3", "JavaScript", "JQuery"],
-      workmode: "onsite",
-      current: false,
-    },
-
-    {
-      period: "April 2016 — Oct 2017",
-      role: "Web Designer",
-      company: "SunTec India Pvt. Ltd",
-      description:
-        "Created responsive layouts and UI components using HTML and CSS - Ensured cross-browser compatibility and performance optimization.",
-      technologies: ["Html5", "Css3", "WordPress", "JavaScript", "JQuery", "Landing Pages"],
-      workmode: "onsite",
-      current: false,
-    },
-
-    {
-      period: "Jan 2014 — Apr 2016",
-      role: "Executive Web Designer",
-      company: "ELK Education Consultants",
-      description:
-        "Designed and developed UI layouts for web platforms - Delivered high-quality designs aligned with business requirements.",
-      technologies: ["Html5", "Css3", "WordPress", "JavaScript", "JQuery", "Adobe Photoshop"],
-      workmode: "onsite",
-      current: false,
-    },
+    }
   ];
 
   return (

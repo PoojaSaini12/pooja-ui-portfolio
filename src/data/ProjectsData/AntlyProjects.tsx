@@ -187,7 +187,7 @@ export const AntlyProjects : Project[]= [
 
          {
             img: p27,
-            link: "https://mapleton-dev.enschool.org/",
+            link: "https://www.mapleton.k12.nd.us/",
             title: "Mapleton Elementary School",
         },
         {
