@@ -4,7 +4,7 @@ import babel from '@rolldown/plugin-babel'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: "/pooja-react-portfolio/",
+  base: "/pooja-ui-portfolio/",
 
   plugins: [
     react(),
