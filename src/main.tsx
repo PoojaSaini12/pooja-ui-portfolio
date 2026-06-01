@@ -24,7 +24,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: "/pooja-ui-portfolio/",
+    basename: "/pooja-portfolio/",
   }
 );
 
