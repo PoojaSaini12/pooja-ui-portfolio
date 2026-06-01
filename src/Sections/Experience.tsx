@@ -14,7 +14,7 @@ export default function Experience() {
     },
     {
       period: "Oct 2021 — Oct 2024",
-      role: "UI Developer",
+      role: "UI / UX Developer",
       company: "Mindrops Solutions (worked for client site > eRevmax Technologies) ",
       description:
         "Worked in the hospitality and travel industry as a Booking Engine, Automation, Designer, and Developer within the Marketing and IT departments, Created many websites using WordPress and its Elementor Plugin.",
@@ -23,8 +23,8 @@ export default function Experience() {
       current: false,
     },
     {
-      period: "Sep 2019 — Sep 2021",
-      role: "Web Developer",
+      period: "Sep 2018 — Sep 2021",
+      role: "UI / UX Developer",
       company: "Aquevix Solutions",
       description:
         "Developed warehouse management system (kuberwms) using React.js and Bootstrap, Adopted modern frontend technologies including Tailwind CSS, React.js, Git, and Adobe XD to improve development efficiency.",
