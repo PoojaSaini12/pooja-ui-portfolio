@@ -31,38 +31,7 @@ export default function Experience() {
       technologies: ["Html5", "Css3", "React Js", "Bootstrap", "Tailwind CSS", "JavaScript", "JQuery", "Adobe XD", "Responsive Design"],
       workmode: "Remote",
       current: false,
-    },
-    {
-      period: "April 2018 — Sep 2018",
-      role: "HTML Developer / Web Designer",
-      company: "Idigitie Pvt. Ltd",
-      description: "Built responsive websites using HTML, CSS, and JavaScript - Collaborated with designers to implement UI components.",
-      technologies: ["Html5", "Css3", "JavaScript", "JQuery"],
-      workmode: "onsite",
-      current: false,
-    },
-
-    {
-      period: "April 2016 — Oct 2017",
-      role: "Web Designer",
-      company: "SunTec India Pvt. Ltd",
-      description:
-        "Created responsive layouts and UI components using HTML and CSS - Ensured cross-browser compatibility and performance optimization.",
-      technologies: ["Html5", "Css3", "WordPress", "JavaScript", "JQuery", "Landing Pages"],
-      workmode: "onsite",
-      current: false,
-    },
-
-    {
-      period: "Jan 2014 — Apr 2016",
-      role: "Executive Web Designer",
-      company: "ELK Education Consultants",
-      description:
-        "Designed and developed UI layouts for web platforms - Delivered high-quality designs aligned with business requirements.",
-      technologies: ["Html5", "Css3", "WordPress", "JavaScript", "JQuery", "Adobe Photoshop"],
-      workmode: "onsite",
-      current: false,
-    },
+    }
 
   ];
 
